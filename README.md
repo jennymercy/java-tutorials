@@ -1,2 +1,1 @@
-# java-tutorials
-Java Tutorials
+Release
